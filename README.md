@@ -19,6 +19,8 @@ The project is about creating a real-time end-to-end sales report with different
 - Create a small function to clean up the ID columns in SalesRep and Sub Category queries.
 - Create the data model connecting all tables using the calendar table already set up in the pbix.
 
+![DATA Modeling](https://user-images.githubusercontent.com/128131674/227862913-c3005bf6-a65e-4957-9ca6-5a5f4828a673.PNG)
+
 
 3. ***DAX Calculations:***
 
@@ -28,6 +30,10 @@ The project is about creating a real-time end-to-end sales report with different
 - Calculate Gross profit MoM growth Change% measure.
 - Calculate AVG sales per day measure.
 - Calculate QoQ Growth.
+
+![QoQ Growth](https://user-images.githubusercontent.com/128131674/227863920-7adad478-4283-4e1c-813d-91de05163394.PNG)
+![MoM Growth](https://user-images.githubusercontent.com/128131674/227863944-ab8844ba-f406-4f04-b3df-6d1604d3d198.PNG)
+
 
 
 4. ***Sales Reports and Dashboard:***

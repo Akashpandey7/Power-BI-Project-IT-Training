@@ -32,8 +32,6 @@ The project is about creating a real-time end-to-end sales report with different
 - Calculate QoQ Growth.
 
 ![QoQ Growth](https://user-images.githubusercontent.com/128131674/227863920-7adad478-4283-4e1c-813d-91de05163394.PNG)
-![MoM Growth](https://user-images.githubusercontent.com/128131674/227863944-ab8844ba-f406-4f04-b3df-6d1604d3d198.PNG)
-
 
 
 4. ***Sales Reports and Dashboard:***
